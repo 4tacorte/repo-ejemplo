@@ -1,0 +1,2 @@
+# ¿Cómo subir repositorio?
+- Jupii
